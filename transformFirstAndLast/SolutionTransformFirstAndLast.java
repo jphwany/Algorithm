@@ -9,6 +9,7 @@
     2. 입력으로 받는 배열은 수정하지 않아야함
 
 */
+package transformFirstAndLast;
 import java.util.*;
 public class SolutionTransformFirstAndLast {
     public HashMap<String, String> transformFirstAndLast(String[] arr){
